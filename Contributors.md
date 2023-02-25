@@ -19,6 +19,7 @@
 - [Code2forever](https://github.com/code2forever)
 - [Rusiru Anupama](https://github.com/rus1ru)
 - [Kumar Raj Gupta]
+[ShambhaviVijay] (https://github.com/ShambhaviVijay)
 - [Ayush Sharma](https://github.com/ayushsharma08)
 - [Sarthak Dobriyal](https://github.com/high-prog)
 - [Genta Miyao](https://github.com/miyaogenta)
